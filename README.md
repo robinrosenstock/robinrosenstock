@@ -1,10 +1,10 @@
-✔️ㅤGitOps Specialist
-✔️ㅤCloud Native Citizen
-✔️ㅤEverything-as-Code Promoter
-✔️ㅤOpen Source Evangelist
-✔️ㅤIT-Automation Expert
-✔️ㅤFast Documentation Reader/Writer
-✔️ㅤMechanical Engineering (Ex)-Professional
+✔️ㅤGitOps Specialist  
+✔️ㅤCloud Native Citizen  
+✔️ㅤEverything-as-Code Promoter  
+✔️ㅤOpen Source Evangelist  
+✔️ㅤIT-Automation Expert  
+✔️ㅤFast Documentation Reader/Writer  
+✔️ㅤMechanical Engineering (Ex)-Professional  
 
 # Social Media
 - [robinrosenstock.com](https://robinrosenstock.com)
@@ -53,33 +53,40 @@
 - Specialization: Applied Mechanics and Thermodynamics.
 - Studium Generale: Numerical Mathematics, Heat Transfer, Emotional Psychology, Time Management
 
-##### Master's Thesis | Alfing Kessler Sondermaschinen GmbH & Institute for Technical Thermodynamics, TU Chemnitz
+*Master's Thesis | Alfing Kessler Sondermaschinen GmbH & Institute for Technical Thermodynamics TU Chemnitz*
 - Duration: 07.08.2017 - 09.02.2018
 - Simulated and optimized the flow transition from a coaxial valve to a hydraulic cylinder while considering pressure conditions
 
-##### Main Internship | Suvis GmbH (in Chemnitz)
+*Main Internship | Suvis GmbH (in Chemnitz)*
 - Duration: 29.02.2016 - 18.07.2016
 - Simulated a centrifugal separator (21 weeks)
 
-##### Bachelor's in Sports Equipment Technology | TU Chemnitz
+### Bachelor's in Sports Equipment Technology | TU Chemnitz
 - Duration: 01.10.2010 - 30.09.2014
 - Dual enrollment in general mechanical engineering (from 01.10.2012)
 - Additional subjects: Technical Mechanics, Thermodynamics, Informatics, Fluid Mechanics
 
-##### Bachelor's Thesis | Institute of Construction and Drive Technology, TU Chemnitz
+*Bachelor's Thesis | Institute of Construction and Drive Technology, TU Chemnitz*
 - Duration: 01.11.2013 - 14.04.2014
 - Conducted strength calculations and optimization of a crankshaft
 
-##### Basic Internship | Funk Eisengießerei GmbH (in Aalen)
+*Basic Internship | Funk Eisengießerei GmbH (in Aalen)*
 - Duration: 05.03.2012 - 16.03.2012
 
-##### Basic Internship | Mapal KG (in Aalen)
+*Basic Internship | Mapal KG (in Aalen)*
 - Duration: 12.09.2011 - 07.10.2011
 
 # Education
 ### Technical High School (Profile: Information Technology) | Technical School Aalen
 - Duration: 01.08.2007 - 31.07.2010
-- Covered topics: Information Technology Basics, Operating Systems, Databases, Object-Oriented Programming, Data Structures and Analysis, Algorithms, Microprocessors, Hardware Programming
+- Information Technology Basics
+- Operating Systems
+- Databases
+- Object-Oriented Programming
+- Data Structures and Analysis
+- Algorithms
+- Microprocessors
+- Hardware Programming
 
 ### Secondary School | Karl-Kessler-Realschule (in Aalen)
 - Duration: 01.09.2001 - 01.07.2007
