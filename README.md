@@ -1,10 +1,10 @@
-✔️ㅤGitOps Specialist  
-✔️ㅤCloud Native Citizen  
-✔️ㅤEverything-as-Code Promoter  
-✔️ㅤOpen Source Evangelist  
-✔️ㅤIT-Automation Expert  
-✔️ㅤFast Documentation Reader/Writer  
-✔️ㅤMechanical Engineering (Ex)-Professional  
+✔️  -  🧑‍💻 GitOps Specialist 🧑‍💻
+✔️  -  ☁️ Cloud Native Citizen ☁️
+✔️  -  📝 Everything-as-Code Promoter 📝
+✔️  -  💗 Open Source Evangelist 💗
+✔️  -  💻 IT-Automation Expert 💻
+✔️  -  🔎 Fast Documentation Reader/Writer 🔎
+✔️  -  ⚙️ Mechanical Engineering (Ex)-Professional ⚙️
 
 # Social Media
 - [robinrosenstock.com](https://robinrosenstock.com)
