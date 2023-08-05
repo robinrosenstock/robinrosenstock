@@ -1,11 +1,16 @@
-robinrosenstock.com
+✔️ㅤGitOps Specialist
+✔️ㅤCloud Native Citizen
+✔️ㅤEverything-as-Code Promoter
+✔️ㅤOpen Source Evangelist
+✔️ㅤIT-Automation Expert
+✔️ㅤFast Documentation Reader/Writer
+✔️ㅤMechanical Engineering (Ex)-Professional
 
 # Social Media
-- LinkedIn: [linkedin.com/in/robinrosenstock](https://www.linkedin.com/in/robinrosenstock)
-- Xing: [xing.com/profile/robin_rosenstock](https://www.xing.com/profile/robin_rosenstock)
-- GitHub: [github.com/robinrosenstock](https://github.com/robinrosenstock)
-- Facebook: [facebook.com/robin.rosenstock](https://www.facebook.com/robin.rosenstock)
-
+- [robinrosenstock.com](https://robinrosenstock.com)
+- [LinkedIn](https://www.linkedin.com/in/robinrosenstock)
+- [Xing](https://www.xing.com/profile/robin_rosenstock)
+- [Facebook](https://www.facebook.com/robin.rosenstock)
 
 # Professional Experience
 ### IT Engineer (System Administrator) | Leitz GmbH & Co. KG (in Oberkochen)
