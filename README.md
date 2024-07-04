@@ -1,10 +1,14 @@
-✔️  -  🧑‍💻 GitOps Specialist 🧑‍💻  
-✔️  -  ☁️ Cloud Native Citizen ☁️  
-✔️  -  📝 Everything-as-Code Promoter 📝  
-✔️  -  💗 Open Source Evangelist 💗  
-✔️  -  💻 IT-Automation Expert 💻  
-✔️  -  🔎 Fast Documentation Reader/Writer 🔎  
-✔️  -  ⚙️ Mechanical Engineering (Ex)-Professional ⚙️  
+✔️ GitOps/DevOps Specialist 🧑🏻‍💻
+✔️ Cloud Native Citizen ☁️
+✔️ Everything-as-Code Promoter 🧾
+✔️ AI whisperer ⚛
+✔️ Open Source Evangelist 💗
+✔️ Server Stability Guardian 🛡️
+✔️ IT-Automation Expert 🤖
+✔️ ERP Software Advocate 📊
+✔️ Software Programming Autodidact ⌨️
+✔️ Fast Documentation Reader/Writer 📚
+✔️ Mechanical Engineering (Ex)-Professional ⚙️
 
 # Social Media
 - [robinrosenstock.com](https://robinrosenstock.com)
@@ -13,8 +17,15 @@
 - [Facebook](https://www.facebook.com/robin.rosenstock)
 
 # Professional Experience
+
+### IT-Engineer | Deutsche Bank aG (in Berlin)
+- Duration: 01.11.2023 - present
+- Responisble for IT testing Environments for Deutsche Bank's Foreign Exchange Trading Platform Autobahn (https://autobahn.db.com/)
+- Migrating Environments to Hybrid Cloud based on Google Anthos
+- Working simultaniously in two teams: DevOps and SL3
+
 ### IT Engineer (System Administrator) | Leitz GmbH & Co. KG (in Oberkochen)
-- Duration: 01.05.2021 - Present
+- Duration: 01.05.2021 - 31.10.2023
 - System administration of 75 Linux servers (Ubuntu, Suse, Red Hat, ...)
 - Responsible for virtualization environments (Linux and Windows, total: approx. 300 VMs) with XEN (Citrix Hypervisor, XCP-ng, Xen Orchestra)
 - Managed storage (NetApp) and other storage systems (TrueNAS)
@@ -118,6 +129,6 @@ Assessed according to the Common European Framework of Reference for Languages a
 
 # Leisure Interests
 - Software Development
-- Chess
 - Gymnastics
+- Chess
 - Juggling
