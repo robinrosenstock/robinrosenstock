@@ -1,6 +1,6 @@
-✔️ GitOps/DevOps Specialist 🧑🏻‍💻
-✔️ Cloud Native Citizen ☁️
-✔️ Everything-as-Code Promoter 🧾
+✔️ GitOps/DevOps Specialist 🧑🏻‍💻  
+✔️ Cloud Native Citizen ☁️  
+✔️ Everything-as-Code Promoter 🧾  
 ✔️ AI whisperer ⚛
 ✔️ Open Source Evangelist 💗
 ✔️ Server Stability Guardian 🛡️
