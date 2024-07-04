@@ -1,14 +1,14 @@
 ✔️ GitOps/DevOps Specialist 🧑🏻‍💻  
 ✔️ Cloud Native Citizen ☁️  
 ✔️ Everything-as-Code Promoter 🧾  
-✔️ AI whisperer ⚛
-✔️ Open Source Evangelist 💗
-✔️ Server Stability Guardian 🛡️
-✔️ IT-Automation Expert 🤖
-✔️ ERP Software Advocate 📊
-✔️ Software Programming Autodidact ⌨️
-✔️ Fast Documentation Reader/Writer 📚
-✔️ Mechanical Engineering (Ex)-Professional ⚙️
+✔️ AI whisperer ⚛  
+✔️ Open Source Evangelist 💗  
+✔️ Server Stability Guardian 🛡️  
+✔️ IT-Automation Expert 🤖  
+✔️ ERP Software Advocate 📊  
+✔️ Software Programming Autodidact ⌨️  
+✔️ Fast Documentation Reader/Writer 📚  
+✔️ Mechanical Engineering (Ex)-Professional ⚙️  
 
 # Social Media
 - [robinrosenstock.com](https://robinrosenstock.com)
